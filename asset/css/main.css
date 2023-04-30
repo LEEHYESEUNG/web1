@@ -77,9 +77,9 @@
 .sc_themepost .group_content .topstory_view .runtime{ position: absolute; bottom: 8px; right: 10px; padding: 3px 6px; font-size: 12px; line-height: 14px; background-color: #000; color: #fff; }
 .play_icon{ position: absolute; bottom: 9px; left: 12px; display: inline-block; width: 24px; height: 28px; background-position: 0 -389px; background-repeat: no-repeat; vertical-align: top; content: ''; }
 .sc_themepost .group_content .topstory_info{ display: block; padding: 16px 18px 0 0; }
-.sc_themepost .group_content .topstory_info .main_title{ color: #ebaa00; font-weight: 700; }
-.sc_themepost .group_content .topstory_info .sub_title{ margin-top: 6px; font-size: 13px; font-weight: bold; }
-.sc_themepost .group_content .topstory_info .desc{ margin-top: 5px; font-size: 13px; color: #404040; }
+.sc_themepost .group_content .topstory_info .main_title{ display: block; color: #ebaa00; font-weight: 700; }
+.sc_themepost .group_content .topstory_info .sub_title{ display: block; margin-top: 6px; font-size: 13px; font-weight: bold; }
+.sc_themepost .group_content .topstory_info .desc{ display: block; margin-top: 5px; font-size: 13px; color: #404040; }
 .sc_themepost .group_content .topstory_info .source{ display: inline-block; margin-top: 4px; }
 .theme_list_wrap{ padding: 18px 0; border-top : 1px solid #e4e8eb; }
 .theme_list_wrap .theme_list .top_ad::after{content: '';clear: both;display: block;}
