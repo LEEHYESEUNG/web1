@@ -29,7 +29,7 @@ body{ font-size: 12px; line-height: 16px; color: #202020; }
 .sc_themepost .group_content .topstory_view .play_icon,
 .theme_media_wrap .media_view_area .media_thumb .play_icon,
 .theme_media_wrap .theme_head .head_title::after,
-.sc_themepost .btn_more_wrap .icon_more,
+.sc_themepost .icon_more,
 .footer .group_notice .link_allservice::after,
 .header .weather_area .max::before,
 .header .navigation .mail::before,
