@@ -176,11 +176,20 @@
 .sc_shop .group_content .group_mall{ padding: 12px 4px 11px 10px; background-color: #f7f9fa; border-bottom: 1px solid #dae1e6; }
 .sc_shop .group_content .mall_list1::after{content: '';clear: both;display: block;}
 .sc_shop .group_content .mall_list2::after{content: '';clear: both;display: block;}
-.sc_shop .group_content .mall_item{ float: left; line-height: 23px; color: #404040; font-weight: bold; }
-.sc_shop .group_content .mall_list1 .dot_12{ margin: 10px 12px 0; background-color: #c9cccf; display: block; width: 3px; height: 3px; -webkit-border-radius: 50%; border-radius: 50%; float: left; }
-.sc_shop .group_content .mall_list1 .dot_13{ margin: 10px 13px 0; background-color: #c9cccf; display: block; width: 3px; height: 3px; -webkit-border-radius: 50%; border-radius: 50%; float: left; }
-.sc_shop .group_content .mall_list2 .dot_10{ margin: 10px 10px 0; background-color: #c9cccf; display: block; width: 3px; height: 3px; -webkit-border-radius: 50%; border-radius: 50%; float: left; }
-.sc_shop .group_content .mall_list2 .dot_11{ margin: 10px 11px 0; background-color: #c9cccf; display: block; width: 3px; height: 3px; -webkit-border-radius: 50%; border-radius: 50%; float: left; }
+.sc_shop .group_content .mall_item{ float: left; line-height: 23px; color: #404040; font-weight: bold; padding-right: 24px; }
+.sc_shop .group_content .mall_list2 .mall_item:last-child{ padding-right: 0; }
+.sc_shop .group_content .list1_box{ position: relative; }
+.sc_shop .group_content .list2_box{ position: relative; }
+.sc_shop .group_mall .dot{ position: absolute; margin: 10px 13px 0; background-color: #c9cccf; display: block; width: 3px; height: 3px; -webkit-border-radius: 50%; border-radius: 50%; float: left; top: 0; }
+.sc_shop .group_mall .dot.dot_1{ left: 20px; }
+.sc_shop .group_mall .dot.dot_2{ left: 78px; }
+.sc_shop .group_mall .dot.dot_3{ left: 125px; }
+.sc_shop .group_mall .dot.dot_4{ left: 185px; }
+.sc_shop .group_mall .dot.dot_5{ left: 232px; }
+.sc_shop .group_mall .dot.dot_6{ left: 45px; }
+.sc_shop .group_mall .dot.dot_7{ left: 105px; }
+.sc_shop .group_mall .dot.dot_8{ left: 155px; } 
+.sc_shop .group_mall .dot.dot_9{ left: 240px; }
 .sc_shop .group_content .group_product{ padding: 55px 8px 20px; position: relative; }
 .sc_shop .group_content .group_product .control_btn{ position: absolute; top: 13px; right: 8px; }
 .sc_shop .group_content .group_product .control_btn::after{content: '';clear: both;display: block;}
