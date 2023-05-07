@@ -57,7 +57,7 @@
 .footer .group_ad .ad_item+.ad_item{ margin-left: 40px; }
 .footer .group_ad .ad_item::after{content: '';clear: both;display: block;}
 .footer .group_ad .ad_item img{ width: 160px; height: 86px; float: left; }
-.footer .group_ad .info_area{ float: left; height: 86px; padding: 2px 2px 0 16px; font-size: 12px; }
+.footer .group_ad .info_area{ float: left; width: calc(100% - 178px); height: 86px; padding: 2px 2px 0 16px; font-size: 12px; }
 .footer .group_ad .info_area .title{ color: #58c464; font-weight: bold; }
 .footer .group_ad .info_area .sub_title{ color: #242424; font-weight: bold; margin-top: 6px; font-size: 13px; }
 .footer .group_ad .info_area .desc1{ color: #424242; line-height: 18px; margin-top: 8px; }
