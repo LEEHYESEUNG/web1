@@ -129,7 +129,7 @@
 .theme_media_wrap .media_info_area .source_area .sum_area::before{ background-color: grey; display: inline-block; width: 2px; height: 2px; -webkit-border-radius: 50%; border-radius: 50%; vertical-align: top; content: ''; margin: 0 5px; vertical-align: 3px; }
 .theme_media_wrap .media_info_area .source_area .sum{ color: #ebaa00; }
 .sc_themepost { position: relative; padding-top: 18px; margin-bottom: 42px; border-bottom: 1px solid #e4e8eb; }
-.sc_themepost .more_btn{ display: block; position: absolute; bottom: -42px; left: 334px; color: #505050; cursor: pointer; }
+.sc_themepost .more_btn{ display: block; position: absolute; bottom: -42px; left: 334px; color: #505050; cursor: pointer; background: transparent; border: none; }
 .sc_themepost .icon_more{  width: 42px; height: 42px; background-position: 0 -345px; background-repeat: no-repeat; display: block; margin: 0 auto 3px; }
 
 /************** 오른쪽 영역  *************/
